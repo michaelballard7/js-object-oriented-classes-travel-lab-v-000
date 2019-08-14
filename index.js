@@ -1,8 +1,9 @@
 
 class Driver(){
-    constructor(name){
+    constructor(name, start){
         this.name = name;
-        this.start = " "
-
+        this.start = start
     }
+
+    
 }
