@@ -5,5 +5,8 @@ class Driver(){
         this.start = start
     }
 
+    get startDate(){
+        return this.start
+    }
 
 }
